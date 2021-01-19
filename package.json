@@ -1,0 +1,26 @@
+{
+  "name": "page-transitions",
+  "version": "1.0.0",
+  "description": "Make page transitions using JavaScript and SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WadeeaKiwan/Page-Transitions.git"
+  },
+  "author": "Wadeea Kiwan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WadeeaKiwan/Page-Transitions/issues"
+  },
+  "homepage": "https://github.com/WadeeaKiwan/Page-Transitions#readme",
+  "devDependencies": {
+    "sass": "^1.32.4"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.6.0"
+  }
+}

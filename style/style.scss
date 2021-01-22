@@ -21,14 +21,16 @@
 }
 
 .home,
-.about {
+.about,
+.contact {
   height: 90vh;
   position: absolute;
   width: 100%;
 }
 
 .home-content,
-.about-content {
+.about-content,
+.contact-content {
   height: 100%;
   display: flex;
   justify-content: space-evenly;
@@ -51,4 +53,8 @@
 
 .about {
   background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+}
+
+.contact {
+  background-image: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
 }
